@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="191" started-at="2018-04-09T12:54:09Z" finished-at="2018-04-09T12:54:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="191" started-at="2018-04-09T12:54:09Z" finished-at="2018-04-09T12:54:09Z">
+      <class name="unitTest.Test2">
+        <test-method status="PASS" signature="testAppraisal()[pri:0, instance:unitTest.Test2@7f9a81e8]" name="testAppraisal" duration-ms="32" started-at="2018-04-09T12:54:09Z" finished-at="2018-04-09T12:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppraisal -->
+      </class> <!-- unitTest.Test2 -->
+      <class name="unitTest.Test3">
+        <test-method status="PASS" signature="testAppraisal()[pri:0, instance:unitTest.Test3@735b5592]" name="testAppraisal" duration-ms="2" started-at="2018-04-09T12:54:09Z" finished-at="2018-04-09T12:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppraisal -->
+      </class> <!-- unitTest.Test3 -->
+      <class name="unitTest.Test1">
+        <test-method status="PASS" signature="testAnnualSalary()[pri:0, instance:unitTest.Test1@58651fd0]" name="testAnnualSalary" duration-ms="3" started-at="2018-04-09T12:54:09Z" finished-at="2018-04-09T12:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAnnualSalary -->
+      </class> <!-- unitTest.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
